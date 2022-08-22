@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Danilo Herrera</h1>
 
-I am a data analyst student and business student, passionate about programming and technology, my main goal is to be able to use all my skills to make the world a better place than it is, creating amazing and maintainable technology.
+I am a programmer and business student, passionate about programming and technology, my main goal is to be able to use all my skills to make the world a better place than it is, creating amazing and maintainable technology.
 
 </p>
 
